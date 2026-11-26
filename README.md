@@ -1,2 +1,2 @@
-# project-name-api-research
+# TasteIt-api-research
 Дослідження зовнішнього API, мапінг даних та тестовий прототип інтеграції.
